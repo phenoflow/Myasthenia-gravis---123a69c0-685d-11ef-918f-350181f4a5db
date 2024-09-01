@@ -1,0 +1,66 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/myasthenia---secondary.py
+inputModule3:
+  class: File
+  path: python/myasthenia-gravis-exacerbation---secondary.py
+inputModule4:
+  class: File
+  path: python/neonatal-myasthenia-gravis---secondary.py
+inputModule5:
+  class: File
+  path: python/myasthenia-gravis-acetylcholinesterase---secondary.py
+inputModule6:
+  class: File
+  path: python/myasthenia-gravis-generalized---secondary.py
+inputModule7:
+  class: File
+  path: python/transient-myasthenia-gravis---secondary.py
+inputModule8:
+  class: File
+  path: python/myasthenia-gravis-thymoma---secondary.py
+inputModule9:
+  class: File
+  path: python/myopathy-myasthenia-gravis---secondary.py
+inputModule10:
+  class: File
+  path: python/determined-myasthenia-gravis---secondary.py
+inputModule11:
+  class: File
+  path: python/congenital-myasthenia-gravis---secondary.py
+inputModule12:
+  class: File
+  path: python/myasthenia-gravis-infantile---secondary.py
+inputModule13:
+  class: File
+  path: python/pseudomyopathic-myasthenia-gravis---secondary.py
+inputModule14:
+  class: File
+  path: python/myasthenia-gravis-vesicle---secondary.py
+inputModule15:
+  class: File
+  path: python/ocular-myasthenia-gravis---secondary.py
+inputModule16:
+  class: File
+  path: python/developmental-myasthenia-gravis---secondary.py
+inputModule17:
+  class: File
+  path: python/adult-myasthenia-gravis---secondary.py
+inputModule18:
+  class: File
+  path: python/persistent-myasthenia-gravis---secondary.py
+inputModule19:
+  class: File
+  path: python/myasthenia-gravis-strabismu---secondary.py
+inputModule20:
+  class: File
+  path: python/juvenile-myasthenia-gravis---secondary.py
+inputModule21:
+  class: File
+  path: python/output-cases.py
